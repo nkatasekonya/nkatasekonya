@@ -1,5 +1,3 @@
-# Hi there, I'm Nkata 👋
-
 ```diff
   0004A1C0  90 00 FF FE 00 24 55 73  6E 4A 72 6E 6C 3A 24 4A  |.....$UsnJrnl:$J|
   0004A1D0  FF FE 00 66 00 00 24 4C  6F 67 46 69 6C 65 00 54  |...f..$LogFile.T|
@@ -14,14 +12,12 @@
   0004A260  46 54 00 00 4E 54 46 53  20 20 20 20 24 55 73 6E  |FT..NTFS    $Usn|
 ```
 
-I'm a cybersecurity professional specialising in **Digital Forensics and Incident Response (DFIR)**. My work focuses on investigating cyber incidents, understanding attacker techniques, and helping organisations detect, respond to, and recover from security incidents.
+I'm a cybersecurity professional specialising in **Digital Forensics and Incident Response (DFIR)**. My work focuses on investigating large scale cyber incidents, understanding attacker techniques, and helping organisations detect, respond to, and recover from security incidents. My areas of interest include:
 
+- Traditional DFIR
+- Cloud DFIR 
+- Cybersecurity Research
+- And more ...
 
-### Areas of Interest
-- Digital Forensics & Incident Response
-- Windows, Linux & Cloud Forensics
-- Cyber Security Research
+My writings and research can be found on my personal website: [dfir.africa](dfir.africa)
 
-### Connect
-- **Website:** dfir.africa
-- **LinkedIn:** linkedin.com/in/nkatasekonya
