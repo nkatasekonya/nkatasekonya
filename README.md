@@ -18,5 +18,4 @@ I'm a cybersecurity professional specialising in **Digital Forensics and Inciden
 - Cloud DFIR, and
 - Cybersecurity Research
 
-My writings and research can be found on my personal website: [dfir.africa](dfir.africa)
-
+My writings and research can be found on my personal website: **[dfir.africa](https://dfir.africa)** 
