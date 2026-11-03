@@ -14,10 +14,9 @@
 
 I'm a cybersecurity professional specialising in **Digital Forensics and Incident Response (DFIR)**. My work focuses on investigating large scale cyber incidents, understanding attacker techniques, and helping organisations detect, respond to, and recover from security incidents. My areas of interest include:
 
-- Traditional DFIR
-- Cloud DFIR 
+- Traditional DFIR,
+- Cloud DFIR, and
 - Cybersecurity Research
-- And more ...
 
 My writings and research can be found on my personal website: [dfir.africa](dfir.africa)
 
