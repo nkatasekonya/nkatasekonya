@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nkata 👋
 
-<!--
-**nkatasekonya/nkatasekonya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a cybersecurity professional specialising in **Digital Forensics and Incident Response (DFIR)**.
 
-Here are some ideas to get you started:
+My work focuses on investigating cyber incidents, understanding attacker techniques, and helping organisations detect, respond to, and recover from security incidents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+
+- Digital Forensics & Incident Response
+- Windows, Linux & Cloud Forensics
+- Cyber Security Research
+
+
+This GitHub profile is where I share personal projects, and security research. 
+
